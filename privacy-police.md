@@ -35,7 +35,7 @@
 
 - 성명: hysxng
 - 직책: 대표
-- 연락처: [Email](hyunsung041107@gmail.com) 혹은 디스코드 @hysxng (940402875484495872)
+- 연락처: [Email](support@senabot.xyz) 혹은 디스코드 @hysxng (940402875484495872)
 
 ## 7. 개인정보 처리방침 변경 시 고지 의무
 
